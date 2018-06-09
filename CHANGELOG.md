@@ -1,3 +1,5 @@
+## 1.0.3 - 2018-06-22
+
 ## 1.0.2 - 2018-06-02
 
 ## 1.0.1 - 2018-06-02
@@ -8,5 +10,7 @@
 - [Improved] Git commit messages for changelog - #8.
 - [Improved] Define guidelines for milestones management - #7.
 ## 0.0.2 - 2018-05-30
+
+## 0.0.0 - 2018-06-25
 
 ## 0.0.1 - 2018-05-23
